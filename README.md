@@ -1,6 +1,6 @@
 ### Hi, I'm Konrad
 
-MSc Quantitative Finance student at the University of Warsaw. I test ideas about markets on real data in Python.
+MSc Quantitative Finance student at the University of Warsaw. Mostly backtests and data analysis of financial markets, in Python.
 
 Looking for a summer 2027 internship in a quant role (trading, research or risk), anywhere or remote.
 
